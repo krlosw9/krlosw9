@@ -1,5 +1,5 @@
 👋 Hola, soy @krlosw9 - Carlos Eduardo Waldo Rojas
-👀 Me interesa el todo el desarrollo web
+👀 Me interesa todo el desarrollo web
 🌱 Actualmente estoy aprendiendo Frontend con React.js
 💞️ Busco colaborar en la creación de la web 3.0
 📫 Pueden contactarme por whatsapp al (+57)3172891700
