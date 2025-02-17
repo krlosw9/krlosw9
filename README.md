@@ -28,9 +28,8 @@ Actualmente, desarrollo un SaaS para empresas de transporte terrestre, manejando
 🌍 
 [LinkedIn](https://www.linkedin.com/in/carlos-waldo-rojas/)
 
-📧 Correo
-[Correo](URL del enlace)
+📧 [Correo](mailto:krlosw9@gmail.com)
 
-📱 [Whatsapp](URL del enlace)
+📱 [WhatsApp]([URL del enlace](https://wa.me/573172891700))
 
 ¡Gracias por visitar mi perfil! 🚀
