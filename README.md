@@ -2,27 +2,27 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador fullstack con experiencia en backend y frontend, especializado en Golang, Java, Laravel y Qwik. Me apasiona crear arquitecturas eficientes y escalables, optimizar el rendimiento de aplicaciones y trabajar con tecnologías modernas para construir soluciones sólidas.
+Soy desarrollador fullstack enfocado en la construcción de **SaaS escalables**, con fuerte especialización en backend y arquitectura. Trabajo principalmente con Golang y PostgreSQL, diseñando sistemas multi-tenant, APIs de alto rendimiento y soluciones orientadas a operación real y crecimiento.
 
 ## 💼 Tecnologías y herramientas
 
-- __Backend:__ Golang (Echo), Java, PHP (Laravel), PostgreSQL, MySQL, API REST
-- __Frontend:__ React, Next.js, Qwik, Tailwind CSS, Storybook
-- __DevOps:__ AWS (EC2, RDS), Docker, Nginx, Apache2
+- __Backend:__ Golang (Echo), Java, PHP (Laravel), API REST, PostgreSQL, MySQL
+- __Frontend:__ Qwik, React, Next.js, Tailwind CSS, Storybook
+- __Infraestructura / Cloud & DevOps:__ AWS (EC2, RDS), Docker, Nginx, Apache2
 - __Otros:__ JWT, Multitenancy, Facturación Electrónica (DIAN)
 
 ## 🔥 Experiencia
 
-- Desarrollo de APIs REST escalables en Golang, Java y Laravel
-- Arquitectura multi-tenant con PostgreSQL
-- Integración de facturación electrónica con DIAN en sistemas de transporte
-- Implementación de autenticación con JWT y control de acceso con roles y permisos
-- Creación de librerías de componentes reutilizables con Storybook
-- Gestión de infraestructura en AWS
+- Diseño y desarrollo de APIs REST escalables en Golang, Java y Laravel
+- Implementación de arquitecturas multi-tenant con PostgreSQL
+- Integración de facturación electrónica DIAN en sistemas de transporte
+- Autenticación JWT y control de acceso basado en roles y permisos
+- Desarrollo de librerías de componentes reutilizables documentadas con Storybook
+- Despliegue y operación de infraestructura en AWS
 
 ## 🌱 En qué estoy trabajando
 
-Actualmente, desarrollo un SaaS para empresas de transporte terrestre, manejando grandes volúmenes de datos (~2M de registros diarios) con una arquitectura multi-tenant basada en PostgreSQL.
+Actualmente desarrollo un SaaS para empresas de transporte terrestre, procesando más de **2 millones de registros diarios**, con una arquitectura multi-tenant en PostgreSQL y backend en Golang, enfocado en rendimiento, seguridad y escalabilidad.
 
 ## 📫 Contáctame
 🌍 
