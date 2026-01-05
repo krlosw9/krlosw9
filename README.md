@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador fullstack enfocado en la construcción de **SaaS escalables**, con fuerte especialización en backend y arquitectura. Trabajo principalmente con Golang y PostgreSQL, diseñando sistemas multi-tenant, APIs de alto rendimiento y soluciones orientadas a operación real y crecimiento.
+Soy desarrollador fullstack enfocado en la construcción de **SaaS escalables**, con fuerte especialización en backend y arquitectura. Trabajo principalmente con Golang y PostgreSQL, diseñando sistemas multi-tenant basados en **arquitectura hexagonal**, APIs de alto rendimiento y soluciones orientadas a operación real y crecimiento.
 
 ## 💼 Tecnologías y herramientas
 
